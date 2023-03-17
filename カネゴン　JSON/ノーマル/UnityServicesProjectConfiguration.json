@@ -1,5 +1,5 @@
 {			
-	"runningSpeedBase":	120	,
+	"runningSpeedBase":	1.20	,
 	"SpeedUpPerSec":	0.17	,
 	"slideMoveSpeed":	0.2	,
 	"coinLimitSkillGuage":	50	,
